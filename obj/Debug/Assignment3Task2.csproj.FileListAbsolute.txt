@@ -1,0 +1,15 @@
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\bin\Debug\Assignment3Task2.exe.config
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\bin\Debug\Assignment3Task2.exe
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\bin\Debug\Assignment3Task2.pdb
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.csproj.AssemblyReference.cache
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.MainMenu.resources
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.Properties.Resources.resources
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.Search.resources
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.csproj.GenerateResource.cache
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.csproj.CoreCompileInputs.cache
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.exe
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.pdb
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.Book.resources
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\bin\Debug\Assignment3Task2.mdf
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\bin\Debug\Assignment3Task2_log.ldf
+C:\Users\PotegeR930\source\repos\Assignment3Task2\Assignment3Task2\obj\Debug\Assignment3Task2.RegistrationForm.resources

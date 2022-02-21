@@ -1,0 +1,10 @@
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\bin\Debug\Assignment2Task1.exe.config
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\bin\Debug\Assignment2Task1.exe
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\bin\Debug\Assignment2Task1.pdb
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\obj\Debug\Assignment2Task1.csproj.AssemblyReference.cache
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\obj\Debug\Assignment2Task1.Properties.Resources.resources
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\obj\Debug\Assignment2Task1.csproj.GenerateResource.cache
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\obj\Debug\Assignment2Task1.csproj.CoreCompileInputs.cache
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\obj\Debug\Assignment2Task1.exe
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\obj\Debug\Assignment2Task1.pdb
+C:\Users\PotegeR930\source\repos\Assignment2Task1\Assignment2Task1\obj\Debug\Assignment2Task1.MembershipRegistrationForm.resources
